@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pmstextiles.netlify.app
+Token: 479abaad26eb08e1c1414e524773032f3a503daf4b7d779e550bedf562c6d7d8
